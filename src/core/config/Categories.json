@@ -552,7 +552,9 @@
             "Scatter chart",
             "Series chart",
             "Heatmap chart",
-            "Extract Audio Metadata"
+            "Extract Audio Metadata",
+            "PPM To BMP",
+            "BMP To PPM"
         ]
     },
     {
